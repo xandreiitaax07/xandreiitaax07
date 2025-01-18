@@ -1,8 +1,6 @@
-## Hi, I'm xandreiitaax👋
+<h1 align="center">Hi 👋, I'm Andrea</a></h1>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://www.canva.com/design/DAGci_FiPl0/kqotA0WBMEiy7NWD8R0SWA/edit">
-</a>
+![](https://github.com/xandreiitaax07/xandreiitaax07/blob/main/%40xandreiitaax.jpg)
 
 Here are some ideas to get you started:
 
