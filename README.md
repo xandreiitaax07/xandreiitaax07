@@ -1,7 +1,8 @@
-## Hello, I'm xandreiitaax👋
+## Hi, I'm xandreiitaax👋
 
-<!--
-**xandreiitaax07/xandreiitaax07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://www.canva.com/design/DAGci_FiPl0/kqotA0WBMEiy7NWD8R0SWA/edit">
+</a>
 
 Here are some ideas to get you started:
 
